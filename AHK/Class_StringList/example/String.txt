@@ -1,4 +1,0 @@
-LoadFromFile
-two
-three
-four
